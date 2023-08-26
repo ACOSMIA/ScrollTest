@@ -1,0 +1,8 @@
+.plastic/
+.vscode/
+Library/
+obj/
+Temp/
+*.sln
+*.csproj
+*.DS_Store
