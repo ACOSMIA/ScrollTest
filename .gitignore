@@ -3,6 +3,7 @@
 Library/
 obj/
 Temp/
+Logs/
 *.sln
 *.csproj
 *.DS_Store
